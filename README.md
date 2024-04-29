@@ -19,6 +19,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 5.Print all the outputs.
 
 6.End the Program.
+## PROGRAM :
 ```python
 '''
 Program to implement the SVM For Spam Mail Detection..
@@ -64,7 +65,7 @@ accuracy
 
 ```
 
-## Output:
+## OUTPUT :
 ### Encoding
 ![image](https://github.com/Madhavareddy09/Implementation-of-SVM-For-Spam-Mail-Detection/assets/145742470/65935976-e3c8-40ce-a32d-afc3f87d77d6)
 
